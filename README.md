@@ -3,7 +3,7 @@
 Welcome to my Shopify Sales Dashboard project!  
 This Power BI dashboard provides deep, actionable insights into **Shopify transaction performance**, **customer behavior**, and **long-term value**, designed with stakeholder-centric KPIs and visualizations.
 
-![Dashboard Preview](./Screenshot 2025-08-04 221610) <!-- Replace with your actual image path -->
+![Dashboard Preview](./Screenshot 2025-08-04 221610.png) <!-- Replace with your actual image path -->
 
 ---
 
